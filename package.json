@@ -1,0 +1,22 @@
+{
+  "name": "npm-audit-visualiser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cneeson/npm-audit-visualiser.git"
+  },
+  "author": "Craig Neeson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cneeson/npm-audit-visualiser/issues"
+  },
+  "bin": {
+    "nav": "src/cli.js"
+  },
+  "homepage": "https://github.com/cneeson/npm-audit-visualiser#readme"
+}
